@@ -1,0 +1,13 @@
+
+{
+  "name": "Stockify",
+  "version": "1.0",
+  "description": "Stock Tracking App",
+  "main": "index.js",
+  "repository": "https://github.com/Genegrady/TTPProject",
+  "author": "Gene Grady",
+  "license": "Gene",
+  "private": false
+}
+
+
